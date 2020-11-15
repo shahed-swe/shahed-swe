@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there, I'm [Md Shahed Talukder](https://aalhabib01.xyz) 👋
-A passionate Software Developer 🚀 
+An Independent full-stack developer who works with Python & Javascript with two years of experience and can adjust to upcoming technologies. 🚀 
 
 
 ![Habib's github stats](https://github-readme-stats.vercel.app/api?username=shahed-swe&show_icons=true)
