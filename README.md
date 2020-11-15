@@ -30,8 +30,8 @@ A passionate Software Developer 🚀
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://github.com/shahed-swe"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> 
-  <a href="mailto:aalhabib001@gmail.com">
+  <a href="mailto:shahedtalukder51@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>&nbsp; &nbsp;
-<a href="https://aalhabib001.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a>
+<a href="https://shahed-swe.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a>
 <br><br><br><br>
