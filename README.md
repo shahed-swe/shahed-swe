@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm [Md Shahed Talukder](https://aalhabib01.xyz) 👋
+## Hi there, I'm [Md Shahed Talukder](https://shahed-swe.github.io/mysite) 👋
 An Independent full-stack developer who works with Python & Javascript with two years of experience and can adjust to upcoming technologies. 🚀 
 
 
