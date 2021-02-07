@@ -1,44 +1,38 @@
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=shahed-swe&&show_icons=true&theme=tokyonight&count_private=true" alt="Shahed's Github Stats"/>](https://github.com/shahed-swe)
 
-<!--
-**shahed-swe/shahed-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Shahed Talukder, nice to meet ya!
 
-Here are some ideas to get you started:
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DSamnanRahee&suffix=%20Followers)](https://twitter.com/shahed.talukder6)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/shahed-talukder-0246a116a/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:shahedtalukder51@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-🔭 I’m currently working on a project named Digital Sheba
-🌱 I’m currently learning A Js Framework named React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi there, I'm [Md Shahed Talukder](https://shahed-swe.github.io/mysite) 👋
-An Independent full-stack developer who works with Python & Javascript with two years of experience and can adjust to upcoming technologies. 🚀 
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" width="10%" height="10%"/>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="10%" height="10%"/>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="react" width="5%" height="5%"/>
-</p>
-        
-        
-![Shahed's github stats](https://github-readme-stats.vercel.app/api?username=shahed-swe&show_icons=true)
+> Undergraduate student @ Daffodin Internation University, Dhaka <br />
+> Problem Solver (All Time) <br />
+> Django Full Stack Developer, Machine Learning Learner
 
 
-<br>
+### Things you should know
 
-  <a href="https://linkedin.com/in/shahed-swe/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/shahed.talukder6">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://github.com/shahed-swe"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> 
-  <a href="mailto:shahedtalukder51@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>&nbsp; &nbsp;
-<a href="https://shahed-swe.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a>
-<br><br><br><br>
+- 🔭 <b>Currently working on:</b> React.js, React Native, Next.js
+- 🌱 <b>Getting better at:</b> Javascript, Python
+- 🤔 <b>Exploring:</b> React Native
+- ⚗️ <b>Experimenting on:</b> Automated code generation, Deep Learning
+- 💬 <b>Ask me about:</b> Python,Django, Rock/Metal Music(or any other type), Anime, Cricket
+
+### My Stacks
+
+```json
+{
+  "languages": ["Python", "Javascript", "C#", "Java"],
+  "frameworks/libraries": {
+    "backend": ["Flask", "Django", "Nodejs"],
+    "frontend": ["React.js", "Next.js","Vue Js"],
+    "others": ["Scikit Learn", "NumPy", "Pandas", "Matplotlib","OpenCv"]
+  },
+  "database": ["PostgreSQL", "SQLite","MySql"],
+  "misc": ["Docker","Celery", "RabbitMQ"],
+  "tools": ["Adobe XD","Adobe Illustrator","Adobe Photoshop"]
+}
+```
+
+#### Happy coding!
