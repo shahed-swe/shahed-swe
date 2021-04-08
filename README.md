@@ -13,11 +13,11 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m currently learning NodeJs, NextJS, MongoDB and  React-Native.
-- 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
-- ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1H7u2K16gZPglouB6SEoTPlbRJWGIagp3/view) for more details about me. I'm open to feedback and suggestions!
+- 🌱 I’m currently learning NodeJs, NextJS, MongoDB , React Native and Flutter.
+- 👯 I’m looking to collaborate on Django Stack and MERN Stack projects with other passionate developers.
+- 🥅 2021 Goals: Master React,Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.
+- ⚡ Fun fact: I really love to travel and explore new things and new places in my free time.
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1UCJf_VXagIQnJsx4Jd42AmlDeuEy7aRZ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <br />
 
