@@ -72,11 +72,11 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, React Native, Next.js
-- 🌱 <b>Getting better at:</b> Javascript, Python
-- 🤔 <b>Exploring:</b> React Native
-- ⚗️ <b>Experimenting on:</b> Automated code generation, Deep Learning
-- 💬 <b>Ask me about:</b> Python,Django, Rock/Metal Music(or any other type), Anime, Cricket
+- 🔭 <b>Currently working on:</b> Django, Django Rest Frameworkm Fast API & ReactJs
+- 🌱 <b>Getting better at:</b> Javascript and ES6
+- 🤔 <b>Exploring:</b> React Native and Flutter
+- ⚗️ <b>Experimenting on:</b> Automated code generation, Deep Learning, Image Processing
+- 💬 <b>Ask me about:</b> Python,Django, Rock/Metal Music(or any other type), Anime, Cricket, Js, Java, C++
 
 ### My Stacks
 
