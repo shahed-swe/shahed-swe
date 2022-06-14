@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center"> Hello, I'm Shahed Talukder <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px" height="5px"> ! </h1>
+<h1 align="center"> Hello, I'm Shahed Talukder <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> ! </h1>
 
 <h3 align="center">I'm an enthusiastic and passionate Django and ReactJs Developer ❤</h3>  
 
