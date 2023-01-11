@@ -17,7 +17,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 👯 I’m looking to collaborate on Django Stack and MERN Stack projects with other passionate developers.
 - 🥅 2021 Goals: Master React,Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things and new places in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1-DmwFZUqIDBPVsqFO1mPj6rSnd18EMxS/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1AvX3aZamEjTp9mz1Y7XUfmRxt1OrHvop/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 
 <br />
 
