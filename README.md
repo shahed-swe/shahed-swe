@@ -9,8 +9,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![age](https://img.shields.io/badge/age-23-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
-
-My Fiverr Profile Ratings
 [![Fiverr Ratings](https://img.shields.io/badge/Fiverr-Ratings-brightgreen)](https://www.fiverr.com/shahedtalukder5)
 
 
