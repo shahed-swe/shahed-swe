@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm an enthusiastic and passionate Django and ReactJs Developer ❤</h3>  
 
-A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I'm a working on Antooba Technologies as a Full-Stack Web Developer 👨‍🎓. I love to work with new technologies and developing web applications like Django Rest Framework, Fast Api, ReactJs, React Native etc🔭. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development 🚀. 
+A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I'm a working on K53 Tech Solutions as a Full-Stack Web Developer 👨‍🎓. I love to work with new technologies and developing web applications like Django Rest Framework, Fast Api, ReactJs, React Native, VueJs, NextJs, Spring-boot,Flutter etc🔭. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development 🚀. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shahed-swe.shahed-swe)
 ![age](https://img.shields.io/badge/age-23-blueviolet)
@@ -19,7 +19,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 👯 I’m looking to collaborate on Django Stack and MERN Stack projects with other passionate developers.
 - 🥅 2021 Goals: Master React,Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things and new places in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1AvX3aZamEjTp9mz1Y7XUfmRxt1OrHvop/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Curriculumn Vita](https://drive.google.com/file/d/10Z1cwe5YN6Pj90I5iIyXZb91BTKmEfNv/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 <br />
 
