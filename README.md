@@ -17,7 +17,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I’m currently learning NodeJs, NextJS, MongoDB , React Native and Flutter.
 - 👯 I’m looking to collaborate on Django Stack and MERN Stack projects with other passionate developers.
-- 🥅 2021 Goals: Master React,Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.
+- 🥅 2024 Goals: Master Spring-boot, Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things and new places in my free time.
 - 📝 Please have a look at my [Curriculumn Vita](https://drive.google.com/file/d/10Z1cwe5YN6Pj90I5iIyXZb91BTKmEfNv/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
