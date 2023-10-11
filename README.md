@@ -6,7 +6,7 @@
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I'm a working on K53 Tech Solutions as a Full-Stack Web Developer 👨‍🎓. I love to work with new technologies and developing web applications like Django Rest Framework, Fast Api, ReactJs, React Native, VueJs, NextJs, Spring-boot,Flutter etc🔭. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development 🚀. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shahed-swe.shahed-swe)
-![age](https://img.shields.io/badge/age-23-blueviolet)
+![age](https://img.shields.io/badge/age-26-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 [![Fiverr Ratings](https://img.shields.io/badge/Fiverr-Ratings-brightgreen)](https://www.fiverr.com/shahedtalukder5)
