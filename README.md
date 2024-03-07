@@ -10,6 +10,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 [![Fiverr Ratings](https://img.shields.io/badge/Fiverr-Ratings-brightgreen)](https://www.fiverr.com/shahedtalukder5)
+![LeetCode Stats](https://leetcode-badge.chyroc.cn/?name=shahedtalukder51&refresh=true)   
 
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
