@@ -67,7 +67,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=shahed-swe&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shahed-swe&theme=tokyonight" width="45%" >
 
 <br /> <br />
 
