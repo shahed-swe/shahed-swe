@@ -1,104 +1,197 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center"> Hello, I'm Shahed Talukder <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> ! </h1>
-
-<h3 align="center">I'm an enthusiastic and passionate Django and ReactJs Developer ❤</h3>  
-
-A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I'm a working on K53 Tech Solutions as a Full-Stack Web Developer 👨‍🎓. I love to work with new technologies and developing web applications like Django Rest Framework, Fast Api, ReactJs, React Native, VueJs, NextJs, Spring-boot,Flutter etc🔭. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development 🚀. 
-
-![](https://visitor-badge.glitch.me/badge?page_id=shahed-swe.shahed-swe)
-![age](https://img.shields.io/badge/age-28-blueviolet)
-![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-Dhaka-3c9) 
-
-
-<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
-
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m currently learning NodeJs, NextJS, MongoDB , React Native and Flutter.
-- 👯 I’m looking to collaborate on Django Stack and MERN Stack projects with other passionate developers.
-- 🥅 2024 Goals: Master Spring-boot, Contribute to Open Source projects.
-- ⚡ Fun fact: I really love to travel and explore new things and new places in my free time.
-- 📝 Please have a look at my [Curriculumn Vita](https://drive.google.com/file/d/10Z1cwe5YN6Pj90I5iIyXZb91BTKmEfNv/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
-
-<br />
-
-
-## 👨‍💻 Languages and Tools
-
 <div align="center">
-
-<img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
-<img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
-<img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
-<img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
-<img src="https://i.imgur.com/uTwsATT.png" height="40" width="40">
-<img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
-<img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
-<img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40">
-<img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
-<img src="https://i.imgur.com/3NP07nj.png" height="40" width="40">
-<img src="https://i.imgur.com/mH7zbFv.png" height="40" width="35">
-<img src="https://i.imgur.com/9Ulh3vX.png" height="40" width="40">
-<img src="https://i.imgur.com/apxFVxR.png" height="40" width="40">
-<img src="https://i.imgur.com/t74wIVs.png" height="40" width="40">
-<img src="https://i.imgur.com/egRbxBy.png" height="40" width="40">
-
-<br />
-
-<img src="https://i.imgur.com/CfbGSw2.png" height="40" width="40">
-<img src="https://i.imgur.com/ydbeeyk.png" height="40" width="40">
-<img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
-<img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
-<img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
-<img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
-<img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
-<img src="https://i.imgur.com/EtRNN8U.png" height="35" width="60">
-<img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
-<img src="https://i.imgur.com/H3C168v.png" height="40" width="40">
-<img src="https://i.imgur.com/bbawh2F.png" height="40" width="40">
-<img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40">
-<img src="https://i.imgur.com/b65wQ01.png" height="40" width="40">
-<img src="https://i.imgur.com/0EZWddS.png" height="40" width="40">
-<img src="https://i.imgur.com/yBHwdqa.png" height="40" width="40">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shahed%20Talukder&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
 </div>
 
-<br /> <br />
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Django+%7C+React+%7C+FastAPI+Expert;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+  
+</div>
 
-### Things you should know
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahed-swe&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/shahed-swe?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/Age-28-blueviolet?style=for-the-badge" alt="age" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-critical?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Living-Dhaka%2C%20BD-success?style=for-the-badge" alt="location" />
+</p>
 
-- 🔭 <b>Currently working on:</b> Django, Django Rest Frameworkm Fast API & ReactJs
-- 🌱 <b>Getting better at:</b> Javascript and ES6
-- 🤔 <b>Exploring:</b> React Native and Flutter
-- ⚗️ <b>Experimenting on:</b> Automated code generation, Deep Learning, Image Processing
-- 💬 <b>Ask me about:</b> Python,Django, Rock/Metal Music(or any other type), Anime, Cricket, Js, Java, C++
+<br/>
 
-### My Stacks
+## 🚀 About Me
 
-```json
-{
-  "languages": ["Python", "Javascript", "C#", "Java"],
-  "frameworks/libraries": {
-    "backend": ["Flask", "Django", "Nodejs"],
-    "frontend": ["React.js", "Next.js","Vue Js"],
-    "others": ["Scikit Learn", "NumPy", "Pandas", "Matplotlib","OpenCv"]
-  },
-  "database": ["PostgreSQL", "SQLite","MySql"],
-  "misc": ["Docker","Celery", "RabbitMQ"],
-  "tools": ["Adobe XD","Adobe Illustrator","Adobe Photoshop"]
-}
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Shahed Talukder"
+        self.role = "Full-Stack Developer"
+        self.company = "K53 Tech Solutions"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.language_spoken = ["bn_BD", "en_US"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something legendary together.")
+    
+    def current_focus(self):
+        return [
+            "🔥 Architecting scalable web applications",
+            "⚡ Optimizing performance & UX",
+            "🌱 Mastering Spring Boot & Cloud Technologies",
+            "🎯 Contributing to Open Source",
+            "🚀 Exploring AI/ML integration in web apps"
+        ]
+
+me = LegendaryDeveloper()
+me.say_hi()
 ```
+
+### 💡 What Drives Me
+
+🎯 **Passionate self-taught developer** with a relentless drive to master cutting-edge technologies  
+🔭 **Currently building** with Django REST Framework, FastAPI, React.js, and Next.js  
+🌱 **Expanding expertise** in React Native, Flutter, Spring Boot, and cloud infrastructure  
+👯 **Open to collaborate** on innovative Django, MERN, and full-stack projects  
+⚡ **Beyond code:** Travel enthusiast, cricket fan, anime lover, and rock/metal music aficionado  
+📫 **Reach me:** [shahedtalukder51@gmail.com](mailto:shahedtalukder51@gmail.com)
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+### 🔧 Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+</p>
+
+### 🎨 Design Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahed-swe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy"/>
+</div>
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+<br/>
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://shahed.vercel.app)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=shahedtalukder51@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahed-talukder/)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://shahedtalukder.medium.com/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/shahed.talukder32/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shahed.talukder01/)
+## 🎯 2024-2025 Goals
+
+- [ ] 🎓 Master Spring Boot ecosystem
+- [ ] ☁️ Deep dive into AWS/Azure cloud services
+- [ ] 🤝 Contribute to 10+ open source projects
+- [ ] 📱 Launch 3 production-ready mobile apps
+- [ ] 🧠 Build AI-powered web applications
+- [ ] 📝 Write 20+ technical blog posts
+- [ ] 🎤 Speak at tech conferences
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://shahed.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahed-talukder/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahedtalukder51@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shahedtalukder.medium.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shahed.talukder32/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahed.talukder01/)
 
 </div>
 
-![](https://i.imgur.com/IuzIC2j.png)
-#### Happy coding!
+<br/>
+
+## 💼 Professional Portfolio
+
+<div align="center">
+  
+### 📄 [Download My Resume](https://drive.google.com/file/d/10Z1cwe5YN6Pj90I5iIyXZb91BTKmEfNv/view?usp=drive_link)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+  
+### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Show some ❤️ by starring ⭐ my repositories!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
